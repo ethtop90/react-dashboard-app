@@ -106,3 +106,7 @@ export function unregister() {
     });
   }
 }
+
+export function sampleFunc() {
+  
+}
